@@ -2,7 +2,7 @@ package Models;
 
 import jakarta.persistence.*;
 import lombok.Data;
-import org.springframework.boot.autoconfigure.web.WebProperties;
+
 @Entity
 @Data
 @Table(name="Users")

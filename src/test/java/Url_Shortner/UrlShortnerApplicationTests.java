@@ -1,4 +1,4 @@
-package com.Url_Shortner;
+package Url_Shortner;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
